@@ -1,0 +1,12 @@
+199c199
+< droneID:1,total_cap:40,num_orders:1,remaining_cap:40,trips_left:0,flown_by:Finneas_Fig
+---
+> droneID:1,total_cap:40,num_orders:1,remaining_cap:20,trips_left:0,flown_by:Finneas_Fig
+239c239
+< droneID:1,total_cap:40,num_orders:1,remaining_cap:40,trips_left:0
+---
+> droneID:1,total_cap:40,num_orders:1,remaining_cap:20,trips_left:0
+266c266
+< droneID:1,total_cap:40,num_orders:1,remaining_cap:40,trips_left:0
+---
+> droneID:1,total_cap:40,num_orders:1,remaining_cap:20,trips_left:0

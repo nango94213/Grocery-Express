@@ -1,0 +1,8 @@
+310c310
+< droneID:1,total_cap:50,num_orders:1,remaining_cap:50,trips_left:1,flown_by:Alan_Alexander
+---
+> droneID:1,total_cap:50,num_orders:1,remaining_cap:27,trips_left:1,flown_by:Alan_Alexander
+385c385
+< droneID:2,total_cap:75,num_orders:1,remaining_cap:35,trips_left:3,flown_by:Gina_Garcia
+---
+> droneID:2,total_cap:75,num_orders:1,remaining_cap:57,trips_left:3,flown_by:Gina_Garcia
