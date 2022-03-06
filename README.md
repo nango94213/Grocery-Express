@@ -1,4 +1,4 @@
-A3 Repo for CS6310 Fall 2021
+
 # To Install Docker go to:
 ```
 https://docs.docker.com/get-docker/
